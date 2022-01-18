@@ -8,7 +8,7 @@ h1{
 #abs{
     color: orange;
 }
-section{
+.flex-container{
     display: flex;
 }
 .half-width{
@@ -56,4 +56,11 @@ width: 100%;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.box{
+    width: 50%;
+
+}
+.box h3{
+    color: orange;
 }
