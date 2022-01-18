@@ -49,5 +49,11 @@ section{
 width: 100%;
 }
 .div-one{
-    padding: 10px;
+    padding-right: 130px;
+    padding-left: 70px;
+}
+.second-section{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
